@@ -1,4 +1,4 @@
-"""Utility functions for repos_hist_potential-umbrella_20250602"""
+"""Utility functions for repos_hist_potential-umbrella_20250926"""
 
 import datetime
 from typing import Optional
